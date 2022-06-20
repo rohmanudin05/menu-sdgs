@@ -1,3 +1,22 @@
+<h1 align="Cara Pemasangan Menu SDGs! 👋</h1>
+
+![readme-image](https://github.com/rohmanudin05/menu-sdgs/blob/master/sdgs/sdgs.png?raw=true)
+
+### 🤔 Apa itu Tema batuah?
+
+Tema Batuah adalah tampilan Platfoam Sistem Informasi Desa (SID) yang sengaja dibuat untuk mempercantik memperindah tampilan website opensid baik umum maupun Premium.
+
+**Adapun Keunggulan Tema Batuah ini:**
+
+- Responsive
+- Elegan
+- Ringan di jalankan
+- Kaya akan fitur-fitur
+- Bisa Gonta-ganti warna sesuka Hati
+
+> Tema Batuah bertujuan agar ke semua 74ribu+ desa di Indonesia dapat menerapkan tema bauah secara menyeluruh.
+
+
 
 Masukkan folder sdgs ke folder : temabatuah/images
 
