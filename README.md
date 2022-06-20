@@ -5,9 +5,7 @@
 
 ### 🤔 Cara Pasangnya?
 
-### 🖼️ Masukkan folder sdgs ke folder : temabatuah/images
-
-
+🖼️ Masukkan folder sdgs ke folder : temabatuah/images
 
 🖼️ Masukkan file sdgs.php ke folder temabatuah/plus
 
