@@ -14,17 +14,13 @@
     <!-- SDGS -->	
     <?php $this->load->view("$folder_themes/plus/sdgs"); ?>
     <!-- SDGS -->
-
 ## 🏷️ LOGO
     Gunakan format ini jika link adalah artikel internal
     <a href="<?= site_url('isi url setelah nama domain') ?>">
-
 ## Gunakan format ini jika link eksternal
     <a href="isi link eksternal" target="blank">
     Pada modal, Ganti kalimat Judul SDGS dengan judul / topik SDGS masing-masing
-
  Pada modal,  Silahkan isi masing-masing sdgs sesuai kebutuhan :
     <div class="sdgs-isi">
     Replace atau ganti kalimat ini : Isi sesuai kebutuhan...
     </div>
-
