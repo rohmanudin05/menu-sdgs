@@ -3,7 +3,7 @@
 
 ![readme-image](https://github.com/rohmanudin05/menu-sdgs/blob/master/sdgs/sdgs.png?raw=true)
 
-### 🤔 Cara Pasangnya?
+### 🤔 Cara Pasang?
 
 ## 🖼️ Masukkan folder sdgs ke folder : 
     temabatuah/images
